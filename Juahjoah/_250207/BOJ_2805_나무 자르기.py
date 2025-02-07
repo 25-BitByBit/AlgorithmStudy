@@ -5,7 +5,6 @@
  * 시간: 444 ms
  * 시간 복잡도: O(N log(max(tree)))
  * 공간 복잡도: O(N)
-
 '''
 
 N, M = map(int, input().split())
