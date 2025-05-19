@@ -2,7 +2,7 @@
 
 '''
  * 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/42587
- * 시간 복잡도: O(N)
+ * 시간 복잡도: O(N²)
  * 공간 복잡도: O(N)
 
  * 다른 사람의 풀이를 참고하여 any()를 활용한 방법으로 구현
